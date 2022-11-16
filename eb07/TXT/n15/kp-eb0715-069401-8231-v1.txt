@@ -1,11 +1,11 @@
 +=====================================================================+
  ENCYCLOPEDIA BRITANNICA, SEVENTH EDITION: A MACHINE-READABLE TEXT
- TRANSCRIPTION, v1.0, The Nineteenth-Century Knowledge Project, 2022.
+ TRANSCRIPTION, v1.1, The Nineteenth-Century Knowledge Project, 2022.
  nckp@temple.edu, https://tu-plogan.github.io/
 
  Source: Encyclopaedia Britannica: A Dictionary of Arts, Sciences,
- and General Literature. Edited by T. S. Baynes. 9th ed. 25 vols.
- NY: Charles Scribner's Sons, 1878-1889.
+ and General Literature. 7th ed., 21 vols. Edinburgh: Adam and 
+ Charles Black, 1830-1842. Image scans: Natl. Library of Scotland.
 
  License: This work is licensed under the Creative Commons Attribution
  4.0 International License. To view a copy of this license, visit
@@ -79,7 +79,7 @@ The. currents in the strait are numerous and various. In settled seasons there i
 
 This passage has long been clothed with imaginary terrors; yet as the Athenians, and the Syracusans, and the Locrians, and the Rhegians, fought in it, it could not have [7:15:698] been considered so fearfully horrible by ancient sailors as 'by ancient poets; and the language of the former would probably have borne a very different tenor from the embellishments of the latter, notwithstanding that the passage through it might have been an affair of some moment with their small vessels and inexperienced seamen.
 
-Nelson with his fleet passed through this channel; but, in applauding him for doing so, and attributing to him the merit of first attempting it, his biographers have overlooked the gallant Walton,^[1. Thia was the officer who, after the action between Sir George Byng and the Spanish fleet, was detached in pursuit of six sail of the line and some smaller ships, that had escaped, and reported his success in the following laconic terms: “ Sir,— We have taken or destroyed all the enemy’s ships and vessels on the coast, as per margin. Yours, &c.” ] who had, nearly a century before, passed securely through.
+Nelson with his fleet passed through this channel; but, in applauding him for doing so, and attributing to him the merit of first attempting it, his biographers have overlooked the gallant Walton,^[1. Thia was the officer who, after the action between Sir George Byng and the Spanish fleet, was detached in pursuit of six sail of the line and some smaller ships, that had escaped, and reported his success in the following laconic terms: “ Sir,— We have taken or destroyed all the enemy’s ships and vessels on the coast, as per margin. Yours, &c.”] who had, nearly a century before, passed securely through.
 
 There is a curious aerial phenomenon in the Strait of Messina, noticed by the ancients, and denominated the Fata Morgana by the Sicilians, who believe that the spectacle is produced by the fairies. Most extraordinary accounts of this phenomenon have been given by those who have witnessed it, but more especially by Father Ange-lucci, whose account is thus quoted by Swinburne: “As I stood at my window, I was surprised with a most wonderful and delectable spectacle. The sea that washes the Sicilian shore swelled up and became for ten miles in length like a chain of dark mountains; whilst the waters on the Calabrian shore grew quite smooth, and in an instant appeared as one clear polished mirror, reclining against the ridge. On this glass was depicted, in chiaroscuro, a string of several thousand pilastres, all equal in altitude, distance, and degree of light and shade. In a moment they lost half their height, and bent into arcades like Roman aqueducts. A long cornice was next formed upon the top, and above it rose innumerable castles, all perfectly alike. These soon split into towers, which were shortly afterwards lost in colonnades, then ended in pines, cypresses, and other trees, even and similar.”
 
@@ -221,7 +221,7 @@ The revenues of the kingdom arise chiefly from taxation of various kinds. Nearly
 
 The army consists of the royal guards, which comprehends a corps of horse artillery, two of grenadiers, one of jagers, and two of cavalry; and the troops of the line, which comprehend a corps of engineers, two regiments of artillery, a brigade of veteran artillery, a brigade of artificers and miners, eleven regiments of infantry, of which four are Swiss, and three regiments of cavalry; the whole amounting to about 30,000 men.
 
-The cities in the two divisions of the kingdom, which contain a population of more than 11,000 persons, are the following :
+The cities in the two divisions of the kingdom, which contain a population of more than 11,000 persons, are the following:
 [table]
 
 Naples, a city of Italy, the capital of the kingdom of the same name, though frequently called the kingdom of the Two Sicilies. The exact position, as taken from the light-house, is 14. 15. 45. east longitude from Greenwich, and 40. 50. 10. north latitude. This city stands on the shore of a bay or gulf of the same name, the beauty of which has been so long and so generally celebrated, that it requires only a short notice here. This bay, taken as a whole, may be considered as one of the most interesting, as well as most beautiful, on the globe. The curiosities both of nature and of art; the remains of classical antiquity; the varied and wonderful scenery; the volcanic eruptions and earthquakes which it has experienced; the cities founded and established in all the pride of luxury, but since overwhelmed; mountains converted into lakes, and lakes turned into mountains; all of these form a combination of circumstances and events, which is to be found in no other spot within the same compass on the earth’s surface.

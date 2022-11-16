@@ -1,11 +1,11 @@
 +=====================================================================+
  ENCYCLOPEDIA BRITANNICA, SEVENTH EDITION: A MACHINE-READABLE TEXT
- TRANSCRIPTION, v1.0, The Nineteenth-Century Knowledge Project, 2022.
+ TRANSCRIPTION, v1.1, The Nineteenth-Century Knowledge Project, 2022.
  nckp@temple.edu, https://tu-plogan.github.io/
 
  Source: Encyclopaedia Britannica: A Dictionary of Arts, Sciences,
- and General Literature. Edited by T. S. Baynes. 9th ed. 25 vols.
- NY: Charles Scribner's Sons, 1878-1889.
+ and General Literature. 7th ed., 21 vols. Edinburgh: Adam and 
+ Charles Black, 1830-1842. Image scans: Natl. Library of Scotland.
 
  License: This work is licensed under the Creative Commons Attribution
  4.0 International License. To view a copy of this license, visit
@@ -38,4 +38,4 @@ This county has furnished titles to two British peers, the earl of Warwick and t
 The towns of more than 3000 inhabitants, and their population, were, in 1831,
 [table]
 
-The most remarkable among a great number of noblemen and gentlemen’s seats are, Warwick Castle, earl of Warwick; Ragley Hall, marquis of Hertford; Walton Hall, Sir C. Mordaunt; Compton Verney, Lord Willoughby; Guy’s Cliff, B. Greathead; Great Packington, Lord Aylesford; Compton Wyngate, marquis of Northampton; Astley Castle; Newdigate; Hewill Grange, earl of Plymouth; and Merevale, D. S. Dugdale.^[1. See Dugdale’s Antiquities of Warwickshire; Marshall’s Rural Economy; Hutton's History of Birmingham; Beauties of England and. Wales. ] '
+The most remarkable among a great number of noblemen and gentlemen’s seats are, Warwick Castle, earl of Warwick; Ragley Hall, marquis of Hertford; Walton Hall, Sir C. Mordaunt; Compton Verney, Lord Willoughby; Guy’s Cliff, B. Greathead; Great Packington, Lord Aylesford; Compton Wyngate, marquis of Northampton; Astley Castle; Newdigate; Hewill Grange, earl of Plymouth; and Merevale, D. S. Dugdale.^[1. See Dugdale’s Antiquities of Warwickshire; Marshall’s Rural Economy; Hutton's History of Birmingham; Beauties of England and. Wales.] '

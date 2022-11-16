@@ -1,11 +1,11 @@
 +=====================================================================+
  ENCYCLOPEDIA BRITANNICA, SEVENTH EDITION: A MACHINE-READABLE TEXT
- TRANSCRIPTION, v1.0, The Nineteenth-Century Knowledge Project, 2022.
+ TRANSCRIPTION, v1.1, The Nineteenth-Century Knowledge Project, 2022.
  nckp@temple.edu, https://tu-plogan.github.io/
 
  Source: Encyclopaedia Britannica: A Dictionary of Arts, Sciences,
- and General Literature. Edited by T. S. Baynes. 9th ed. 25 vols.
- NY: Charles Scribner's Sons, 1878-1889.
+ and General Literature. 7th ed., 21 vols. Edinburgh: Adam and 
+ Charles Black, 1830-1842. Image scans: Natl. Library of Scotland.
 
  License: This work is licensed under the Creative Commons Attribution
  4.0 International License. To view a copy of this license, visit
@@ -34,4 +34,4 @@ The county gives the title of earl to the family of the Fanes, and that of Lonsd
 
 The most remarkable seats of noblemen and gentlemen are the following: Lowther Castle, earl of Lonsdale; Appleby Castle, earl of Thanet; Abbot Hall, Christopher Wilson, Esq.; Mint House, J. H. Long, Esq.; Netherdale Hall, John Mounsey, Esq.; Brougham Hall, Lord Brougham; Carlton Hall, Lord Wallace.
 
-The town of Kendal contains 10,015 inhabitants, and Kirby Lonsdale 1686. No other town in the county has a population of 1500.^[1. See Button's Beauties of England. England Delineated. Parliamentary Population Returns. ] '
+The town of Kendal contains 10,015 inhabitants, and Kirby Lonsdale 1686. No other town in the county has a population of 1500.^[1. See Button's Beauties of England. England Delineated. Parliamentary Population Returns.] '

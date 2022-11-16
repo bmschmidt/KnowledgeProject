@@ -1,11 +1,11 @@
 +=====================================================================+
  ENCYCLOPEDIA BRITANNICA, SEVENTH EDITION: A MACHINE-READABLE TEXT
- TRANSCRIPTION, v1.0, The Nineteenth-Century Knowledge Project, 2022.
+ TRANSCRIPTION, v1.1, The Nineteenth-Century Knowledge Project, 2022.
  nckp@temple.edu, https://tu-plogan.github.io/
 
  Source: Encyclopaedia Britannica: A Dictionary of Arts, Sciences,
- and General Literature. Edited by T. S. Baynes. 9th ed. 25 vols.
- NY: Charles Scribner's Sons, 1878-1889.
+ and General Literature. 7th ed., 21 vols. Edinburgh: Adam and 
+ Charles Black, 1830-1842. Image scans: Natl. Library of Scotland.
 
  License: This work is licensed under the Creative Commons Attribution
  4.0 International License. To view a copy of this license, visit
@@ -82,7 +82,7 @@ The public revenue of Bavaria is about L.3,000,000 sterling, arising from almost
 [table]
 [table]
 
-The military force of Bavaria consists of about 54,000 men, raised, as in Prussia and most other German states, by conscription, each conscript being subject to five years’ service. They form sixteen regiments of infantry, each of two battalions or twelve companies, with 190 men or upwards in each company; making, with four smaller battalions of chasseurs a pied, above 40,000 infantry. ∙ The cavalry consists of two regiments of cuirassiers and six regiments of light horse; in all 9000. The artillery and engineers consist of four battalions, or twenty-four companies, in number 4000. The total army of Bavaria is thus 53,000 or 54,000 men, but of these in time of peace two thirds are on furlough, leaving for active duty a force of 17,000 men; viz. 13,000 infantry, 2000 cavalry, and 2000 artillery.^[1. The numbers here set down very nearly coincide with those given in the article Army, under the head “Bavarian Army” (vol. iii. p. 610), to which we beg to refer, as being at once more detailed and precise. ]
+The military force of Bavaria consists of about 54,000 men, raised, as in Prussia and most other German states, by conscription, each conscript being subject to five years’ service. They form sixteen regiments of infantry, each of two battalions or twelve companies, with 190 men or upwards in each company; making, with four smaller battalions of chasseurs a pied, above 40,000 infantry. ∙ The cavalry consists of two regiments of cuirassiers and six regiments of light horse; in all 9000. The artillery and engineers consist of four battalions, or twenty-four companies, in number 4000. The total army of Bavaria is thus 53,000 or 54,000 men, but of these in time of peace two thirds are on furlough, leaving for active duty a force of 17,000 men; viz. 13,000 infantry, 2000 cavalry, and 2000 artillery.^[1. The numbers here set down very nearly coincide with those given in the article Army, under the head “Bavarian Army” (vol. iii. p. 610), to which we beg to refer, as being at once more detailed and precise.]
 
 The military school at Munich has a high reputation. Arms and ammunition are manufactured in different towns in the kingdom.
 [table]

@@ -1,11 +1,11 @@
 +=====================================================================+
  ENCYCLOPEDIA BRITANNICA, SEVENTH EDITION: A MACHINE-READABLE TEXT
- TRANSCRIPTION, v1.0, The Nineteenth-Century Knowledge Project, 2022.
+ TRANSCRIPTION, v1.1, The Nineteenth-Century Knowledge Project, 2022.
  nckp@temple.edu, https://tu-plogan.github.io/
 
  Source: Encyclopaedia Britannica: A Dictionary of Arts, Sciences,
- and General Literature. Edited by T. S. Baynes. 9th ed. 25 vols.
- NY: Charles Scribner's Sons, 1878-1889.
+ and General Literature. 7th ed., 21 vols. Edinburgh: Adam and 
+ Charles Black, 1830-1842. Image scans: Natl. Library of Scotland.
 
  License: This work is licensed under the Creative Commons Attribution
  4.0 International License. To view a copy of this license, visit
@@ -73,4 +73,4 @@ viii. Vol. viii. i. 1807, p. 223. On the Dispersion of the Light of Lamps by Scr
 
 26. He was latterly engaged in composing a work on the Nature and Effects of Order, which he never completed, although no person was better qualified to write on the subject.
 
-Count Rumford certainly possessed considerable facility of invention, and there was a very laudable spirit of originality in his views and modes of reasoning, although he had never leisure to acquire profound learning in any department of study. “In person he was above the middle size, with a dignified and pleasing expression of countenance, and a mildness in his manner and his tone of voice. He was ambitious of fame and distinction, and had too great a propensity to dictate,” without sufficiently regarding the opinions of others who were of equal authority with him self. His mode of life was abstemious, and his health was even supposed to have suffered from too great abstinence, though his regimen was much more the result of medical opinions respecting his health, than of his own peculiar taste for temperance.^[1. Pictet, Bibliothèque Britannique. Baldwin's Literary Journal. Gentleman’s Magazine, vol. lxxxiv. Aikin’s General Biography, vol. x. Chalmers’s Biographical Dictionary, vol. xxix. ] (l. l.)
+Count Rumford certainly possessed considerable facility of invention, and there was a very laudable spirit of originality in his views and modes of reasoning, although he had never leisure to acquire profound learning in any department of study. “In person he was above the middle size, with a dignified and pleasing expression of countenance, and a mildness in his manner and his tone of voice. He was ambitious of fame and distinction, and had too great a propensity to dictate,” without sufficiently regarding the opinions of others who were of equal authority with him self. His mode of life was abstemious, and his health was even supposed to have suffered from too great abstinence, though his regimen was much more the result of medical opinions respecting his health, than of his own peculiar taste for temperance.^[1. Pictet, Bibliothèque Britannique. Baldwin's Literary Journal. Gentleman’s Magazine, vol. lxxxiv. Aikin’s General Biography, vol. x. Chalmers’s Biographical Dictionary, vol. xxix.] (l. l.)
